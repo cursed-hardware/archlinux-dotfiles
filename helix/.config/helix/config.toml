@@ -1,0 +1,19 @@
+theme = "gruvbox_dark_soft"
+
+[editor]
+color-modes = true
+cursorline = true
+line-number = "relative"
+mouse = true
+popup-border = "all"
+true-color = true
+
+[editor.cursor-shape]
+insert = "bar"
+normal = "block"
+select = "underline"
+
+[editor.statusline.mode]
+insert = "INSERT"
+normal = "NORMAL"
+select = "SELECT"
