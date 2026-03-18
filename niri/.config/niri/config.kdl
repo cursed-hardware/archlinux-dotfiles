@@ -40,7 +40,7 @@ layout {
     default-column-width { proportion 1.0; }
 
     focus-ring {
-        width 4
+        width 3
         active-color "#ebdbb2"
         inactive-color "#282828"
         urgent-color "#fb4934"
@@ -51,7 +51,7 @@ layout {
     }
 
     shadow {
-        off
+        on
     }
 
     struts {
