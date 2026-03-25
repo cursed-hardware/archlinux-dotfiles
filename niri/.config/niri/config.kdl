@@ -23,6 +23,7 @@ input {
 // by running `niri msg outputs` while inside a niri instance.
 output "Virtual-1" {
     mode "1920x1200@59.950"
+    // mode "1920x1080@60"
     scale 1
     transform "normal"
     position x=1280 y=0
