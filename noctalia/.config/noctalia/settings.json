@@ -12,7 +12,7 @@
         "enableSessionSearch": true,
         "enableSettingsSearch": true,
         "enableWindowsSearch": true,
-        "iconMode": "tabler",
+        "iconMode": "native",
         "ignoreMouseInput": false,
         "overviewLayer": false,
         "pinnedApps": [
@@ -449,7 +449,7 @@
         }
     },
     "osd": {
-        "autoHideMs": 2000,
+        "autoHideMs": 500,
         "backgroundOpacity": 1,
         "enabled": true,
         "enabledTypes": [
